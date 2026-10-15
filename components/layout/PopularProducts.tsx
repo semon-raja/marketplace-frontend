@@ -144,7 +144,7 @@ export default function PopularProducts() {
               Popular Products
             </h2>
             <p className="mt-2 text-sm text-slate-600 sm:text-base">
-              Discover picks from local stores near you.
+              Discover what&apos;s trending in stores near you.
             </p>
           </div>
 
